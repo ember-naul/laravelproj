@@ -1,0 +1,7 @@
+/* resources/css/app.css */
+
+@import 'bootstrap.min.css';
+@import 'aos.css';
+@import 'glightbox.min.css';
+@import 'swiper-bundle.min.css';
+@import 'main.css'; /* Seu CSS principal */
